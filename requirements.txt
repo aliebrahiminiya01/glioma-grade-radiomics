@@ -1,0 +1,14 @@
+# pyradiomics needs numpy installed first and must be built without build isolation:
+#   pip install "numpy<2" setuptools wheel versioneer
+#   pip install --no-build-isolation pyradiomics==3.0.1
+#   pip install -r requirements.txt
+numpy==1.26.4
+pyradiomics==3.0.1
+SimpleITK==2.5.6
+nibabel==5.4.2
+pandas==3.0.6
+scikit-learn==1.9.1
+matplotlib==3.11.2
+nbformat
+jupyter==1.1.1
+tqdm==4.70.1

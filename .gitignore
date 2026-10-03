@@ -1,0 +1,8 @@
+# MRI data (downloaded from Kaggle, ~3 GB) and the derived feature table
+data/
+
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.idea/
+.DS_Store
