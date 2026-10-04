@@ -103,7 +103,6 @@ The MRI data and the feature table are not included in the repository.
 src/prepare_data.py          zip -> compressed NIfTI, fixes the misnamed mask of case 355
 src/extract_features.py      PyRadiomics feature extraction (parallel)
 src/modeling.py              feature groups, model pipelines, evaluation helpers
-notebooks/build_notebook.py  builds the analysis notebook
 notebooks/grade_radiomics.ipynb
 results/                     result tables and figures
 ```
